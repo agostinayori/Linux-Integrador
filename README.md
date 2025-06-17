@@ -1,6 +1,6 @@
 # Linux-Integrador
 
-# Trabajo Práctico Integrador – Computación Aplicada
+# TP Integrador – Computación Aplicada
 
 ## 🧾 Descripción general
 
