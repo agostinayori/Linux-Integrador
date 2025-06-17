@@ -15,6 +15,8 @@ Cada sección del trabajo esta organizada por carpetas temáticas para facilitar
 - Agostina Yori 
 - Fausto Villalba
 - Oscar Agustin Cabral
+- Lautaro Almada
+- Ximena Romero
 
 ---
 
