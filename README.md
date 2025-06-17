@@ -10,7 +10,7 @@ Cada sección del trabajo esta organizada por carpetas temáticas para facilitar
 
 ---
 
-## 🛠️ Integrantes del grupo
+## 🛠️ Integrantes
 
 - Agostina Yori 
 - Fausto Villalba
@@ -18,7 +18,7 @@ Cada sección del trabajo esta organizada por carpetas temáticas para facilitar
 
 ---
 
-## 📁 Estructura del repositorio
+## 📁 Estructura del repo
 
 | Carpeta | Contenido |
 |--------|-----------|
@@ -43,7 +43,7 @@ Cada sección del trabajo esta organizada por carpetas temáticas para facilitar
 
 ---
 
-## 📌 Notas
+## 📌 Notes
 
 - Este repositorio fue creado para centralizar todo el trabajo práctico.
 - Las contribuciones de cada integrante se van a ir registrando por carpeta o commits individuales.
