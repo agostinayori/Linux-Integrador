@@ -10,16 +10,6 @@ Cada sección del trabajo esta organizada por carpetas temáticas para facilitar
 
 ---
 
-## 🛠️ Integrantes
-
-- Agostina Yori 
-- Fausto Villalba
-- Oscar Agustin Cabral
-- Lautaro Almada
-- Ximena Romero
-
----
-
 ## 📁 Estructura del repo
 
 | Carpeta | Contenido |
