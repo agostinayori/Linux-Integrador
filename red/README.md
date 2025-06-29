@@ -1,4 +1,4 @@
-## 3. Configuración de Red
+## Seccion 3 - Configuración de Red
 
 Para cumplir con esta sección, se configuró la interfaz de red de la máquina virtual con una IP estática. Esto se hizo editando el archivo `/etc/network/interfaces` con los siguientes valores:
 
