@@ -1,4 +1,4 @@
-# 🧩 Sección 2 – Configuración de servicios (SSH, WEB y Base de Datos)
+## Sección 2 – Configuración de servicios 
 
 ## 🔐 1. SSH
 
