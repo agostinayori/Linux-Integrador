@@ -1,4 +1,4 @@
-# Parte 1 – Configuración del entorno base
+## Parte 1 – Configuración del entorno base
 
 ### 🎯 Objetivo
 Dejar el sistema operativo Debian funcional en la VM para comenzar el trabajo de administración.
