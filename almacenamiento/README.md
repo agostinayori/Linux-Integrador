@@ -66,8 +66,6 @@ UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx /www_dir    ext4    defaults    0    2
 UUID=yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy /backup_dir ext4    defaults    0    2
 ```
 
-(Los UUID deben reemplazarse por los reales que correspondan a `/dev/sdc1` y `/dev/sdc2`).
-
 Para comprobar que todo está bien configurado:
 
 ```bash
