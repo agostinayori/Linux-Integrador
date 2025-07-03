@@ -1,4 +1,4 @@
-# Paso 5: Backup
+## Seccion 5: Backup
 
 En esta sección se desarrolló un script de backup completo, automatizado y parametrizable, cumpliendo con todos los requisitos de la consigna.
 
