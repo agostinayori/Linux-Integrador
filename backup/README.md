@@ -1,10 +1,10 @@
-## Seccion 5: Backup
+## Seccion 5 - Backup
 
 En esta sección se desarrolló un script de backup completo, automatizado y parametrizable, cumpliendo con todos los requisitos de la consigna.
 
 ---
 
-## 📂 Estructura general
+### 📂 Estructura general
 
 - Script ubicado en: `/opt/scripts/backup_full.sh`
 - Backups generados en: `/backup_dir`
@@ -13,20 +13,20 @@ En esta sección se desarrolló un script de backup completo, automatizado y par
 
 ---
 
-## 🧠 Funcionalidad del script
+### 🧠 Funcionalidad del script
 
 El script `backup_full.sh` permite realizar copias comprimidas (`.tar.gz`) de cualquier directorio del sistema, guardándolas en una ubicación destino y utilizando como nombre de archivo el formato ANSI de fecha (YYYYMMDD).
 
 ---
 
-## 🔹 Parámetros
+### 🔹 Parámetros
 
 - **Origen:** Ruta del directorio a respaldar  
 - **Destino:** Ruta donde guardar el archivo `.tar.gz`
 
 ---
 
-## 📝 Ejemplo de uso
+### 📝 Ejemplo de uso
 
     /opt/scripts/backup_full.sh /var/log /backup_dir
 
@@ -36,7 +36,7 @@ Este comando generará un archivo con nombre como:
 
 ---
 
-## ❓ Opción de ayuda
+### ❓ Opción de ayuda
 
 Al ejecutar:
 
@@ -46,7 +46,7 @@ Se mostrará una breve guía con la sintaxis esperada y una descripción de los 
 
 ---
 
-## 🔍 Validaciones del script
+### 🔍 Validaciones del script
 
 Antes de crear el backup, el script verifica que:
 
@@ -57,7 +57,7 @@ Si algo falla, el script se detiene y muestra un mensaje de error.
 
 ---
 
-## ⏱ Automatización con `cron`
+### ⏱ Automatización con `cron`
 
 El script fue agendado en el `crontab` con estas dos tareas:
 
