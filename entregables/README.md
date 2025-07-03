@@ -1,4 +1,4 @@
-## 📦 Paso 6: Entregables
+## 📦 Seccion 6 - Entregables
 
 En esta sección se prepararon todos los archivos requeridos para la entrega final del TP integrador, cumpliendo con las consignas específicas de compresión y estructura.
 
