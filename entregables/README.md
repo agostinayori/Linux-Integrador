@@ -4,7 +4,7 @@ En esta sección se prepararon todos los archivos requeridos para la entrega fin
 
 ---
 
-### ✅ Archivos comprimidos
+### Archivos comprimidos
 
 Se comprimieron individualmente los siguientes directorios del sistema en formato `.tar.gz`:
 
