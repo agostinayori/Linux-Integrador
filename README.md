@@ -15,12 +15,9 @@ Cada sección del trabajo esta organizada por carpetas temáticas para facilitar
 | Carpeta | Contenido |
 |--------|-----------|
 | `configuracion-entorno/` | Cambio de contraseña, hostname, y configuración inicial del sistema |
-| `servicios/apache/` | Instalación y configuración del servidor web Apache con soporte PHP |
-| `servicios/ssh/` | Configuración del acceso por SSH con clave pública/privada |
-| `servicios/mariadb/` | Instalación y carga de la base de datos MariaDB |
+| `servicios/` | Instalación y configuración del servidor web Apache con soporte PHP, Configuración del acceso por SSH con clave pública/privada, Instalación y carga de la base de datos MariaDB |
 | `red/` | Configuración de red con IP estática (ADDRESS, NETMASK, GATEWAY) |
-| `almacenamiento/particion/` | Creación y montaje de particiones para `/www_dir` y `/backup_dir` |
-| `almacenamiento/apache-config/` | Modificación de Apache para servir desde `/www_dir` |
+| `almacenamiento/` | Creación y montaje de particiones para `/www_dir` y `/backup_dir`, Modificación de Apache para servir desde `/www_dir` |
 | `backup/` | Script de backup (`backup_full.sh`) y programación en cron |
 | `entregables/` | Archivos comprimidos (.tar.gz) con el contenido solicitado y el diagrama topológico |
 
