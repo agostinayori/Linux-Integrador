@@ -51,12 +51,4 @@ Y se descomprimió localmente dentro de la carpeta del proyecto:
 
 > tar -xzvf ~/Documents/entregables.tar.gz -C ~/Documents/GitHub/Linux-Integrador/entregables
 
----
 
-### Subida a GitHub
-
-Desde el directorio raíz del repositorio local, se subieron todos los archivos comprimidos con:
-
-> git add .  
-> git commit -m "Subo entregables comprimidos del TP"  
-> git push origin main
