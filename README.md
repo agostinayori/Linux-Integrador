@@ -4,9 +4,7 @@
 
 ## 🧾 Descripción general
 
-Este proyecto consiste en la configuración y administración de un servidor GNU/Linux Debian en una máquina virtual que nos da la Universidad, con el objetivo de aplicar los conocimientos adquiridos sobre servicios, red, almacenamiento, usuarios, permisos y automatización.
-
-Cada sección del trabajo esta organizada por carpetas temáticas para facilitar la colaboración en grupo y el seguimiento por parte de los docentes.
+Este proyecto consiste en la configuración y administración de un servidor GNU/Linux Debian en una máquina virtual que nos da la UP, con el objetivo de aplicar los conocimientos adquiridos sobre servicios, red, almacenamiento, usuarios, permisos y automatización.
 
 ---
 
@@ -30,12 +28,3 @@ Cada sección del trabajo esta organizada por carpetas temáticas para facilitar
 - Automatizar backups usando scripts y tareas programadas.
 - Documentar la infraestructura implementada de forma clara y accesible.
 
----
-
-## 📌 Notes
-
-- Este repositorio fue creado para centralizar todo el trabajo práctico.
-- Las contribuciones de cada integrante se van a ir registrando por carpeta o commits individuales.
-- El trabajo será defendido en una presentación oral.
-
----
